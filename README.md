@@ -35,13 +35,19 @@ Swagger Ui
 5.Click the below link to check Swagger ui. http://localhost:8091/swagger-ui/index.html (to check api endpoints goto swagger ui)
 
 ## Flow Diagram
-![SubmitCustomerDetails](https://github.com/user-attachments/assets/db322811-619b-48f6-abce-47494e57377f)
 
-![All_Customer](https://github.com/user-attachments/assets/e03f9ae7-2801-44a7-b336-35e5a44bc47c)
+![SubmitCustomerDetails](https://github.com/user-attachments/assets/fe6aac8b-64ab-4aec-bed5-8d1494d7ac65)
 
-![Rewards](https://github.com/user-attachments/assets/53f798dc-cbd5-4b6c-ac65-09547ac22025)
+![All_Customer](https://github.com/user-attachments/assets/a0006239-0d66-4367-a503-93ca0cb54e59)
 
-![CustomerData](https://github.com/user-attachments/assets/222b2f6e-ffec-48a0-bed6-be16aa8df7b3)
+![Rewards](https://github.com/user-attachments/assets/4a5a4e13-ad16-4e50-af1a-60ed5de8ae0e)
+
+![CustomerData](https://github.com/user-attachments/assets/6692af59-a844-4091-a44f-bf3525d1ad78)
+
+
+
+
+
 
 
 
