@@ -26,7 +26,7 @@ Swagger Ui
 ## Setup:
 1.Open the project in any IDE
 
-2.Run MySQL workbench db locally and run it.Change the database setting in application.properties file
+2.Run MySQL workbench db locally and run it.Change the database setting in application.properties file and Transaction repository class query.
 
 3.Run the project on apache maven server
 
